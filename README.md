@@ -9,7 +9,7 @@
 $ apt update && apt upgrade
 $ apt install git
 $ pkg install python
-$ git clone https://github.com/TSMaitry/VirusX.git
+$ git clone https://github.com/Justine3237/VirusX.git
 $ cd VirusX
 $ chmod +x VirusX.py
 $ python2 VirusX.py
