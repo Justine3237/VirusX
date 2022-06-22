@@ -14,14 +14,14 @@ B = '\033[1;34m' #Blue
 os.system("cd banner;python2 banner4.py")
 print
 print ("\033[49m                   Welcome To Virus-X                     \033[0m")
-print ("\033[48m                   Author: Trilok Singh                   \033[0m")
+print ("\033[48m                   Author: Harinandan                     \033[0m")
 print
 
 os.system("cd banner;python2 table.py")
 
 def help():
   print
-  print ("\033[44m Developer : Trilok Singh Maitry\033[0m")
+  print ("\033[44m Developer : Justine Alexia Andrew\033[0m")
   print ("\033[44m Program : VirusX\033[0m")
   print ("\033[44m Based On Python\033[0m")
   print
